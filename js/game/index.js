@@ -16,7 +16,6 @@ var game
   , controls
   , stars
   , scoreText
-  , sprites = {}
 
 var runSpeed = 250
   , fallSpeed = 500
